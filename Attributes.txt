@@ -1,0 +1,3 @@
+ladder.png - <a href="https://www.flaticon.com/free-icons/ladder" title="ladder icons">Ladder icons created by Aranagraphics - Flaticon</a>
+snake.png - <a href="https://www.flaticon.com/free-icons/fauna" title="fauna icons">Fauna icons created by Freepik - Flaticon</a>
+coin.png - <a href="https://www.flaticon.com/free-icons/coin" title="coin icons">Coin icons created by popo2021 - Flaticon</a>

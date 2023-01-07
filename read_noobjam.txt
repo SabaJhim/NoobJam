@@ -1,0 +1,18 @@
+1.front page---
+             1.1--start button
+              1.2--How to play
+              1.3---background music
+              1.4---exit
+
+2.Show odd or even--
+3.music---when snake eating the player
+4.music---when player got the ladder
+5.music----when dice rolls everytime
+
+6----snake add kora--1ta
+7.ladder add kora--1ta
+8.--life add kora--5ta 
+9..winning condition
+
+
+10.back to home page
